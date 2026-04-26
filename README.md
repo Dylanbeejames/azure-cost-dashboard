@@ -1,5 +1,7 @@
 # Azure Cost Visibility Dashboard
+
 WATCH ME DO THE LAB HERE - https://www.loom.com/share/3587263343c3440caa0e21c5f282be19
+
 **Dylan Bryson** — Azure Cloud Engineer, Norfolk VA
 [LinkedIn](https://www.linkedin.com/in/dylan-bryson-b24952181/) · [GitHub](https://github.com/Dylanbeejames)
 
